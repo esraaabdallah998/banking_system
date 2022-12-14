@@ -19,7 +19,9 @@ transfer Money between multiple users
 #Technologies:
 
 Client Side: Html, CSS, bootstrap, Javascript
+
 Server Side: PHP
+
 DBMS: MySQL
 
 
